@@ -9,5 +9,3 @@ function fearNotLetter(str) {
   }
   
  console.log( fearNotLetter("abcdefghijklmnopqrstuvwxyz"))
-
-
